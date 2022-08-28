@@ -1,0 +1,2 @@
+# Data-Code-Skin-XGBoost
+The Skin Factor of a wellbore in Volve Field was calculated as the prepared model was validated with the datasets of another wellbore. The data was cleaned and processed to import it into jupyter notebook. GridSearchCV was the hyperparameter tuning method and eXtreme Boosting was the model implemented. Well F1C's Skin Factor was estimated after the model was created using the model created from Well F11, F12 and F14.
